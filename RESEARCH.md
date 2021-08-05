@@ -22,8 +22,8 @@ Thread’ler programlama dillerinin sunduğu çeşitli fonksiyon ve sınıflarla
 
 <ul>
     <li> Threadler bağımsız olduğu için kullanıcıyı engellemez ve aynı anda birden fazla işlem yapabilirsiniz </li>
-    <li> Bir çok #### işlemi bir arada gerçekleştirebilir, zamandan tasarruf sağlar #### .</li>
-    <li>liste 3</li>
+    <li> Bir çok işlemi bir arada gerçekleştirebilir, zamandan tasarruf sağlar .</li>
+    <li> İş parçacıkları bağımsızdır , bu nedenle tek bir iş parçacığında bir istisna oluşursa diğer iş parçacıklarını etkilemez. </li>
 </ul>
 
 
@@ -38,5 +38,7 @@ Thread’ler programlama dillerinin sunduğu çeşitli fonksiyon ve sınıflarla
 
 
 ## Referanslar
-https://devnot.com/2021/thread-nedir-detayli-bir-thread-incelemesi/
+
+<a href="https://youtu.be/UBYKOazm8Dg"></a>
+https://totalview.io/blog/multithreading-multithreaded-applications
 
