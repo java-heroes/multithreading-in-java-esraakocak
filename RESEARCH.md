@@ -13,7 +13,7 @@ Thread’ler programlama dillerinin sunduğu çeşitli fonksiyon ve sınıflarla
 
 
 ```
-_Temel nedeni performansı arttırmaktır._
+_ Temel nedeni performansı arttırmaktır. _
 
 ```
 
